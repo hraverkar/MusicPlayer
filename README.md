@@ -3,7 +3,7 @@
 # Angular 9 NGX-AUDIO-PLAYER Example 
   Angular 9 ngx-audio-player.
   
-# Scrrenshot
+# Screenshot
 ![image](https://raw.githubusercontent.com/hraverkar/MusicPlayer/master/screenshot/23.jpg)
 
 ## Tech Stack
